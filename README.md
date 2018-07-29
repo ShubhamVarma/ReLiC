@@ -1,4 +1,4 @@
-# ReLic
+# ReLiC
 
 This repository contains datasets used for our paper on ReLiC: Entity Profiling by using Random Forest and Trustworthiness of a Source.
 
