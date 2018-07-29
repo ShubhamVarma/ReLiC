@@ -1,0 +1,185 @@
+Amar Singh,7,292,51,22.46,0,1,IND
+Sorabji Colah,2,69,31,17.25,0,0,IND
+Jahangir Khan,4,39,13,5.57,0,0,IND
+Khandu Rangnekar,3,33,18,5.5,0,0,IND
+Amir Elahi,1,17,13,8.5,0,0,IND
+Dattu Phadkar,31,1229,123,32.34,0,0,IND
+Kanwar Rai Singh,1,26,24,13,0,0,IND
+Probir Sen,14,165,25,11.78,0,0,IND
+C. R. Rangachari,4,8,8,2.66,0,0,IND
+Khanmohammad Ibrahim,4,169,85,21.12,0,1,IND
+Keki Tarapore,1,2,2,2,0,0,IND
+Polly Umrigar,59,3631,223,42.22,0,0,IND
+Montu Banerjee,1,0,0,0,0,0,IND
+Ghulam Ahmed,22,192,50,8.72,0,1,IND
+Nirode Chowdhury,2,3,3,3,0,0,IND
+Madhusudan Rege,1,15,15,7.5,0,0,IND
+Shute Banerjee,1,13,8,6.5,0,0,IND
+Nana Joshi,12,207,52,10.89,0,1,IND
+Pankaj Roy,43,2442,173,32.56,0,0,IND
+C. D. Gopinath,8,242,50,22,0,1,IND
+Madhav Mantri,4,67,39,9.57,0,0,IND
+Buck Divecha,5,60,26,12,0,0,IND
+Subhash Gupte,36,183,21,6.31,0,0,IND
+Vijay Manjrekar,55,3208,189,39.12,0,0,IND
+Datta Gaekwad,11,350,52,18.42,0,1,IND
+Gulabrai Ramchand,33,1180,109,24.58,0,0,IND
+Hiralal Gaekwad,1,22,14,11,0,0,IND
+Shah Nyalchand,1,7,6,7,0,0,IND
+Madhav Apte,7,542,163,49.27,0,0,IND
+Bal Dani,1,NULL,NULL,NULL,NULL ,NULL,IND
+Vijay Rajindernath,1,NULL,NULL,NULL,NULL ,NULL,IND
+Ebrahim Maka,2,2,2,NULL,0,0,IND
+Deepak Shodhan,3,181,110,60.33,0,0,IND
+Chandrasekhar Gadkari,6,129,50,21.5,0,1,IND
+Jayasinghrao Ghorpade,8,229,41,15.26,0,0,IND
+Pananmal Punjabi,5,164,33,16.4,0,0,IND
+Naren Tamhane,21,225,54,10.22,0,1,IND
+Prakash Bhandari,3,77,39,19.25,0,0,IND
+Jasu Patel,7,25,12,2.77,0,0,IND
+A. G. Kripal Singh,14,422,100,28.13,0,0,IND
+Narain Swamy,1,NULL,NULL,NULL,NULL ,NULL,IND
+Nari Contractor,31,1611,108,31.58,0,0,IND
+Vijay Mehra,8,329,62,25.3,0,2,IND
+Sadashiv Patil,1,14,14,NULL,0,0,IND
+Bapu Nadkarni,41,1414,122,25.7,0,0,IND
+Gundibail Sunderam,2,3,3,NULL,0,0,IND
+Chandrakant Patankar,1,14,13,14,0,0,IND
+Chandu Borde,55,3061,177,35.59,0,0,IND
+Ghulam Guard,2,11,7,5.5,0,0,IND
+Manohar Hardikar,2,56,32,18.66,0,0,IND
+Vasant Ranjane,7,40,16,6.66,0,0,IND
+Ramnath Kenny,5,245,62,27.22,0,3,IND
+Surendranath,11,136,27,10.46,0,0,IND
+Apoorva Sengupta,1,9,8,4.5,0,0,IND
+Ramakant Desai,28,418,85,13.48,0,1,IND
+M. L. Jaisimha,39,2056,129,30.68,0,0,IND
+Arvind Apte,1,15,8,7.5,0,0,IND
+Abbas Ali Baig,10,428,112,23.77,0,0,IND
+V. M. Muddiah,2,11,11,5.5,0,0,IND
+Salim Durani,29,1202,104,25.04,0,0,IND
+Budhi Kunderan,18,981,192,32.7,0,0,IND
+A. G. Milkha Singh,4,92,35,15.33,0,0,IND
+Man Sood,1,3,3,1.5,0,0,IND
+Rusi Surti,26,1263,99,28.7,0,9,IND
+Baloo Gupte,3,28,17,28,0,0,IND
+Vaman Kumar,2,6,6,3,0,0,IND
+Farokh Engineer,46,2611,121,31.08,0,0,IND
+Dilip Sardesai,30,2001,212,39.23,0,0,IND
+Mansoor Ali Khan Pataudi,46,2793,203,34.91,0,0,IND
+E. A. S. Prasanna,49,735,37,11.48,0,0,IND
+B. S. Chandrasekhar,58,167,22,4.07,0,0,IND
+Rajinder Pal,1,6,3,6,0,0,IND
+Hanumant Singh,14,686,105,31.18,0,0,IND
+Kumar Indrajitsinhji,4,51,23,8.5,0,0,IND
+Srinivas Venkataraghavan,57,748,64,11.68,0,2,IND
+Venkataraman Subramanya,9,263,75,18.78,0,2,IND
+Ajit Wadekar,37,2113,143,31.07,0,0,IND
+Bishan Singh Bedi,67,656,50,8.98,0,1,IND
+Subrata Guha,4,17,6,3.4,0,0,IND
+Ramesh Saxena,1,25,16,12.5,0,0,IND
+Abid Ali,29,1018,81,20.36,0,6,IND
+Umesh Kulkarni,4,13,7,4.33,0,0,IND
+Chetan Chauhan,40,2084,97,31.57,0,16,IND
+Ashok Mankad,22,991,97,25.41,0,6,IND
+M. Venkataramana,1,0,0,NULL,0,0,IND
+Salil Ankola,1,6,6,6,0,0,IND
+Sachin Tendulkar,200,15921,248,53.86,51,68,IND
+Vivek Razdan,2,6,6,6,0,0,IND
+Venkatapathy Raju,28,240,31,10,0,0,IND
+Atul Wassan,4,94,53,23.5,0,1,IND
+Gursharan Singh,1,18,18,18,0,0,IND
+Anil Kumble,132,2506,110,17.77,0,0,IND
+Javagal Srinath,67,1009,76,14.21,0,4,IND
+Subroto Banerjee,1,3,3,3,0,0,IND
+Pravin Amre,11,425,103,42.5,0,0,IND
+Ajay Jadeja,15,576,96,26.18,0,4,IND
+Rajesh Chauhan,21,98,23,7,0,0,IND
+Vinod Kambli,17,1084,227,54.2,0,0,IND
+Vijay Yadav,1,30,30,30,0,0,IND
+Nayan Mongia,44,1442,152,24.03,0,0,IND
+Aashish Kapoor,4,97,42,19.4,0,0,IND
+Sunil Joshi,15,352,92,20.7,0,1,IND
+Paras Mhambrey,2,58,28,29,0,0,IND
+Venkatesh Prasad,33,203,30,7.51,0,0,IND
+Vikram Rathour,6,131,44,13.1,0,0,IND
+Sourav Ganguly,113,7212,239,42.17,16,35,IND
+Rahul Dravid,164,13288,270,52.31,36,63,IND
+David Johnson,2,8,5,4,0,0,IND
+V. V. S. Laxman,134,8781,281,45.97,17,56,IND
+Dodda Ganesh,4,25,8,6.25,0,0,IND
+Abey Kuruvilla,10,66,35,6.6,0,0,IND
+Nilesh Kulkarni,3,5,4,5,0,0,IND
+Debashish Mohanty,2,0,0,NULL,0,0,IND
+Harbhajan Singh,103,2224,115,18.22,0,0,IND
+Harvinder Singh,3,6,6,2,0,0,IND
+Ajit Agarkar,26,571,109,16.79,0,0,IND
+Robin Singh,1,27,15,13.5,0,0,IND
+Robin Singh,1999,1,0,0,0,0,IND
+Sadagoppan Ramesh,19,1367,143,37.97,0,0,IND
+Ashish Nehra,17,77,19,5.5,0,0,IND
+Devang Gandhi,4,204,88,34,0,2,IND
+MSK Prasad,6,106,19,11.77,0,0,IND
+Vijay Bharadwaj,3,28,22,9.33,0,0,IND
+Hrishikesh Kanitkar,2,74,45,18.5,0,0,IND
+Wasim Jaffer,31,1944,212,34.1,0,0,IND
+Murali Kartik,8,88,43,9.77,0,0,IND
+Nikhil Chopra,1,7,4,3.5,0,0,IND
+Mohammad Kaif,13,624,148,32.84,0,0,IND
+Shiv Sunder Das,23,1326,110,34.89,0,0,IND
+Saba Karim,1,15,15,15,0,0,IND
+Zaheer Khan,86,1128,75,12.12,0,3,IND
+Vijay Dahiya,2,2,2,NULL,0,0,IND
+Sarandeep Singh,3,43,39,43,0,0,IND
+Rahul Sanghvi,1,2,2,1,0,0,IND
+Sairaj Bahutule,2,39,21,13,0,0,IND
+Sameer Dighe,6,141,47,15.66,0,0,IND
+Hemang Badani,4,94,38,15.66,0,0,IND
+Deep Dasgupta,8,344,100,28.66,0,0,IND
+Virender Sehwag,104,8448,319,50.89,0,32,IND
+Sanjay Bangar,12,470,100,29.37,0,0,IND
+Iqbal Siddiqui,1,29,24,29,0,0,IND
+Tinu Yohannan,3,13,8,NULL,0,0,IND
+Ajay Ratra,6,163,115,18.11,0,0,IND
+Parthiv Patel,20,683,69,29.69,0,4,IND
+Lakshmipathy Balaji,8,51,31,5.66,0,0,IND
+Aakash Chopra,10,437,60,23,0,2,IND
+Yuvraj Singh,40,1900,169,33.92,0,0,IND
+Irfan Pathan,29,1105,102,31.54,0,0,IND
+Gautam Gambhir,51,3815,206,44.36,0,0,IND
+Dinesh Karthik,23,1000,129,27.77,0,0,IND
+Mahendra Singh Dhoni,90,4876,224,38.09,0,0,IND
+R. P. Singh,14,116,30,7.25,0,0,IND
+S. Sreesanth,27,281,35,10.4,0,0,IND
+Piyush Chawla,2,5,4,2.5,0,0,IND
+Munaf Patel,13,60,15,7.5,0,0,IND
+V. R. V. Singh,5,47,29,11.75,0,0,IND
+Ramesh Powar,2,13,7,6.5,0,0,IND
+Ishant Sharma,68,550,31,8.87,0,0,IND
+Amit Mishra,18,574,84,21.25,0,3,IND
+Murali Vijay,37,2630,167,41.09,0,0,IND
+Pragyan Ojha,24,89,18,17.8,0,0,IND
+Subramaniam Badrinath,2,63,56,21,0,1,IND
+Wriddhiman Saha,11,367,60,21.58,0,2,IND
+Abhimanyu Mithun,4,120,46,24,NULL,0,IND
+Suresh Raina,18,768,120,26.48,0,0,IND
+Cheteshwar Pujara,32,2420,206,47.45,0,0,IND
+Jaydev Unadkat,1,2,1,2,NULL,NULL,IND
+Praveen Kumar,6,149,40,14.9,NULL,NULL,IND
+Virat Kohli,41,2994,169,44.02,0,0,IND
+Abhinav Mukund,5,211,62,21.1,0,1,IND
+Ravichandran Ashwin,32,1204,124,31.68,0,0,IND
+Umesh Yadav,17,109,30,7.78,NULL,NULL,IND
+Varun Aaron,9,35,9,3.88,NULL,NULL,IND
+Vinay Kumar,1,11,6,5.5,NULL,NULL,IND
+Ravindra Jadeja,16,473,68,21.5,0,1,IND
+Bhuvneshwar Kumar,11,343,63,24.5,0,3,IND
+Shikhar Dhawan,19,1308,187,40.87,0,0,IND
+Ajinkya Rahane,22,1619,147,44.97,0,0,IND
+Mohammed Shami,12,166,51,12.76,0,1,IND
+Rohit Sharma,16,896,177,33.18,0,0,IND
+Stuart Binny,6,194,78,21.55,0,1,IND
+Pankaj Singh,2,10,9,3.33,NULL,NULL,IND
+Karn Sharma,1,8,4,8,NULL,NULL,IND
+KL Rahul,5,256,110,25.6,0,0,IND
+Naman Ojha,1,56,35,28,NULL,NULL,IND
